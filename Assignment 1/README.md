@@ -8,9 +8,10 @@ Ensure that the dependencies are installed
 pip install -r requirements.txt
 ```
 
-After the dependencies are installed, execute the driver
+After the dependencies are installed, execute the driver(s)
 ```
-python3 wordimportance.py
+python3 authorization.py
+python3 patterngenerator.py
 ```
 ## Assignment Specification:
 
@@ -19,41 +20,6 @@ Assignment 1 tests your understanding of basic Python syntax, components of flow
 
 # 1. Pattern generation
 Task: Write a script that uses flow control statements to generate the following pattern. Ensure that your script can continue the pattern
-
-*
-**
-***
-****
-*****
-******
-*******
-********
-*********
-********
-*******
-******
-*****
-****
-***
-**
-*
-*
-**
-***
-****
-*****
-******
-*******
-********
-*********
-********
-*******
-******
-*****
-****
-***
-**
-*
 
 # 2. Authorization test
 Task: Write a script that uses at least one function to accept user input of name and password, prints a polite welcome to the user, and tests if the password is correct (you decide the correct password).
