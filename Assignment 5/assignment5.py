@@ -4,6 +4,7 @@ Author: Simone Lewis
 with scikit-learn
 Date: 12-05-2022
 
+Assignment Discussion follows the script. 
 
 This script contains the solutions for problems 1-2 from assignment 5. 
 """""
