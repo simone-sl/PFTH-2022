@@ -3,7 +3,7 @@
 # Date: 12-12-2022
 
 # This script contains my individual assignment. 
-
+# assignment discussion follows the script
 
 #importing dependencies and libraries
 
