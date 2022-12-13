@@ -74,7 +74,8 @@ The coefficient of determination returned indicates a weak
 to medium correlation betweeen the selected variables.  
 
 After the data is analyzed, it is visualized using matplotlib,
-where the testing and training are plotted. 
+where the testing and training are plotted. Most of the plots are along the regression line,
+meaning that there are fewer errors. The legend at the bottom right explains the figure. 
 
 """
 
