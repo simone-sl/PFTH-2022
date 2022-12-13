@@ -26,4 +26,4 @@ Visit the Pyplot tutorial for information on figure properties.
 In this problem you have to make two plots from at least eight series objects (rows) in one data file, e.g., series-01.csv. In the first plot, you have to stack the eight series in one plot, that is, they shold all be in the same plot window (i.e., stacked on top of each other). In the second plot, each series object should have its own subplot (i.e., a total of eight 'unstacked' subplots). Discuss the advantage/disadvantage of stacked vs unstacked plotting of series data.
 
 ## Notice
-# This code may work, however after saving the file it returns errors that weren't being raised before. It runs on my end, and returns the appropriate [figures] (github.com/simone-sl/PFTH-2022/tree/main/Assignment%204/data).
+# This code may work, however after saving the file it returns errors that weren't being raised before. It runs on my end, and returns the appropriate [figures](github.com/simone-sl/PFTH-2022/tree/main/Assignment%204/data).
