@@ -1,3 +1,13 @@
+""" 
+Title: Assignment 4.1-3 Data Visualization
+Author: Simone Lewis
+Date: 11-21-2022
+
+This script contains the solutions for problems 1-3 from assignment 4. 
+
+
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt 
 #data visualization
@@ -72,3 +82,26 @@ def stack():
     plt.close()
 #stack() 
 #shows all data within one plot
+
+""" 
+
+I designed the code like this so the user does not 
+have to enter the path into the code themselves, it prompts 
+them in the terminal, although it does require the file to be 
+downloaded to the users computer as well as be a .csv file. 
+Input_file_name is the name of the file the user wishes to make a visualization of, 
+while output_file_name is the users desired name of the file the visualization will 
+be saved under. 
+
+
+Not stacking is the better option here, when unstacked, 
+the data is impossible to analyze, the data file has so many 
+values in it, it is hard to track each line individually. 
+However, if you were to plot this on a subplot, each row in the file 
+would be displayed within its own plot. This would then enable you to track the 
+values in one row and note and differences between the two. Non stacking is easier to 
+read, organized, and allows for more precise data analysis. 
+The code for subplotting I could not get it to run as desired. 
+
+
+"""
