@@ -3,6 +3,7 @@ Title: Assignment 2.1-3 Word Importance
 Author: Simone Lewis
 Date 10-31-2022
 
+Assignment discussion follows the script. 
 
 This script contains the solutions for problems 1-3 from assignment 2. 
 
