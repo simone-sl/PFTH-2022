@@ -43,6 +43,7 @@ def regression():
         print(f'Coefficient of Determination: {r2_score(y_test, y_pred)}')
 
         fig, axs = plt.subplots(1, 2, figsize=(9,9), sharex=True)
+        #setting up the subplots
         fig.text(0.5, 0.04, 'Chance of Admision', ha='center',size=15)
         fig.text(0.05, 0.5, 'Undergraduate GPA', va='center', rotation='vertical',size=15)
         fig.suptitle('Chance of Admission vs. Undergraduate GPA (Training & Testing Set)')
