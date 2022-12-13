@@ -3,6 +3,8 @@ Title: Assignment 3.1-3 Object Oriented Design and Programming in Python 3
 Author: Simone Lewis
 Date: 11-07-2022
 
+Assignment discussion follows the script. 
+
 This script contains the solutions for problems 1-2 from asignment 3. 
 
 """""
