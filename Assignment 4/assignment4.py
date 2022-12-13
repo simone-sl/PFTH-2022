@@ -84,6 +84,7 @@ def stack():
 #shows all data within one plot
 
 """ 
+Run the code blocks one at a time. 
 
 I designed the code like this so the user does not 
 have to enter the path into the code themselves, it prompts 
@@ -101,7 +102,9 @@ However, if you were to plot this on a subplot, each row in the file
 would be displayed within its own plot. This would then enable you to track the 
 values in one row and note and differences between the two. Non stacking is easier to 
 read, organized, and allows for more precise data analysis. 
-The code for subplotting I could not get it to run as desired. 
+
+The figures need to be saved manually, otherwise they will 
+appear in the folder as an empty PNG. 
 
 
 """
