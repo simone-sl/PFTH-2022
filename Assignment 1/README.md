@@ -10,8 +10,8 @@ pip install -r requirements.txt
 
 After the dependencies are installed, execute the driver(s)
 ```
-python3 authorization.py
-python3 patterngenerator.py
+python3 Assignment1.1.py
+python3 Assignment1.2.py
 ```
 ## Assignment Specification:
 
