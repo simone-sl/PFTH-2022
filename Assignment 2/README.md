@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 After the dependencies are installed, execute the driver
 ```
-python3 wordimportance.py
+python3 assignment3.py
 ```
 ## Assignment Specification:
 
