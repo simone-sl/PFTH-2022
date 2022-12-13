@@ -63,5 +63,7 @@ an accuracy percentage of 53%.
 The confusion matrix returns high values for the false
 positive and false negative, meaning that the model 
 innacurately classified these classes a high number of times, 
-which isn't acceptable. 
+which isn't acceptable. This may be due to the script reading the 
+code from the horoscope column instead of the horscope-clean column, 
+which does not contain any symbols. 
 """""
